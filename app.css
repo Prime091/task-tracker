@@ -1,0 +1,41 @@
+:root {
+    --bs-body-color: #302e2e;
+}
+
+
+.min-height-feature-img {
+    height: 300px ;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+.mb-6 {
+    margin-bottom: 64px;  
+    /* 4 x 16px */
+}
+
+.mb-7 {
+    margin-bottom: 80px;
+}
+
+.mb-8 {
+    margin-bottom: 96px;
+}
+
+.mb-9 {
+    margin-bottom: 112px;
+}
+
+.mb-10 {
+    margin-bottom: 128px;
+}
+
+.mb-11 {
+    margin-bottom: 144px;
+}
+
+.mb-12 {
+    margin-bottom: 168px;
+}
